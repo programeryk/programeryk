@@ -1,4 +1,4 @@
-## Hi, I’m Eryk 👋
+## Hi, I’m Eryk 🌫️
 
 I’m a computer science student focused on **backend and fullstack development**,
 mainly working with **TypeScript / JavaScript** and **Node.js**.
